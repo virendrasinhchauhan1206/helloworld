@@ -5,6 +5,7 @@ int calc(int x, int y, char ops)
 		case '+':
 			return x+y;
 		case '-':
+		//still testing//
 			return x-y;
 		case '*':
 			return x*y;
